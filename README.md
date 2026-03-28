@@ -173,13 +173,3 @@ docker compose up -d
 * Deploy to AWS / Cloud
 
 ---
-
-## 🤝 Contribution
-
-Feel free to fork and improve this boilerplate.
-
----
-
-## 📄 License
-
-MIT License
